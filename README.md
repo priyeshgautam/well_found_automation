@@ -10,5 +10,4 @@ How to use:
 
 You'll see the automation running in Console window.
 
-<img width="1288" alt="image" src="https://gist.github.com/user-attachments/assets/9f35c6db-4c76-4cb1-b78a-489ca513bfaf" />
 
